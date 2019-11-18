@@ -1,0 +1,16 @@
+.image-list
+{
+  display: flex;
+  flex-direction: row;
+  flex-wrap:  wrap ;
+  justify-content: flex-start;
+}
+
+
+.image-list img{
+  width: 250px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  }
